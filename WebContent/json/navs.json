@@ -1,0 +1,42 @@
+{
+	"contentManagement": [{
+			"title": "资讯管理",
+			"icon": "&#xe716;",
+			"href": "",
+			"spread": true,
+			"children": [{
+				"title": "发布通知",
+				"icon": "",
+				"href": "page/tree/tree.html",
+				"spread": false
+			}]
+		}, {
+			"title": "用户中心",
+			"icon": "&#xe770;",
+			"href": "",
+			"spread": true,
+			"children": [{
+					"title": "学生管理",
+					"icon": "",
+					"href": "page/user/userList.html",
+					"spread": false
+				}
+			]
+		}, {
+			"title": "其他页面",
+			"icon": "&#xe653;",
+			"href": "",
+			"spread": true,
+			"children": [{
+					"title": "泉大风采",
+					"icon": "",
+					"href": "page/carousel/carousel.html",
+					"spread": false
+				}
+			]
+		}
+
+
+	]
+
+}

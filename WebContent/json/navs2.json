@@ -1,0 +1,20 @@
+{
+	"contentManagement": [{
+			"title": "其他页面",
+			"icon": "&#xe653;",
+			"href": "",
+			"spread": true,
+			"children": [{
+					"title": "泉大风采",
+					"icon": "",
+					"href": "page/carousel/carousel.html",
+					"spread": false
+				}
+				
+			
+				
+			]
+		}
+	]
+
+}
